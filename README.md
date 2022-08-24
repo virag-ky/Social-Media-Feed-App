@@ -11,5 +11,5 @@
 - CSS
 ```
 
-### To get started with this tutorial clone this repository: https://github.com/reduxjs/redux-essentials-example-app
-### Follow the tutorial: https://redux.js.org/tutorials/essentials/part-3-data-flow
+#### To get started with this tutorial clone this repository: https://github.com/reduxjs/redux-essentials-example-app
+#### Follow the tutorial: https://redux.js.org/tutorials/essentials/part-3-data-flow
