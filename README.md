@@ -11,5 +11,9 @@
 - CSS
 ```
 
+## Screenshot:
+
+![Screenshot from 2022-08-28 18-40-36](https://user-images.githubusercontent.com/79658534/187082452-b381a2b4-2205-47ef-a4a1-36c04de1950a.png)
+
 #### To get started with this tutorial clone this repository: https://github.com/reduxjs/redux-essentials-example-app
 #### Follow the tutorial: https://redux.js.org/tutorials/essentials/part-3-data-flow
